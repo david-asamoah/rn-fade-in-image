@@ -1,0 +1,26 @@
+{
+  "name": "rn-fade-in-image",
+  "version": "1.0.0",
+  "description": "React Native fade in image using animation API. Have your images fade in the way your users will love.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fade in image",
+	"image animation",
+	"animation api",
+	"react-native animation api",
+    "fade",
+    "animation"
+  ],
+  "author": "David R. Asamoah",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "prop-types": "^15.7.2"
+  }
+}
